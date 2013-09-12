@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/18/trunk/OnlineShop/src/java/control/productos
+END
+AddCarritoServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/18/trunk/OnlineShop/src/java/control/productos/AddCarritoServlet.java
+END
+BuyServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/16/trunk/OnlineShop/src/java/control/productos/BuyServlet.java
+END
+SearchProductServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/OnlineShop/src/java/control/productos/SearchProductServlet.java
+END
+UpdateCartServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/OnlineShop/src/java/control/productos/UpdateCartServlet.java
+END
+DeleteCartServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/OnlineShop/src/java/control/productos/DeleteCartServlet.java
+END
+EditAmountServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/OnlineShop/src/java/control/productos/EditAmountServlet.java
+END

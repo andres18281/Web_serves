@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/17/trunk/OnlineShop/web/admin/administration
+END
+userdetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17/trunk/OnlineShop/web/admin/administration/userdetails.jsp
+END
+products_administration.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/17/trunk/OnlineShop/web/admin/administration/products_administration.jsp
+END
+addproduct.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/17/trunk/OnlineShop/web/admin/administration/addproduct.jsp
+END
+stats.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/trunk/OnlineShop/web/admin/administration/stats.jsp
+END
+modifyprod.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/17/trunk/OnlineShop/web/admin/administration/modifyprod.jsp
+END
+user_administration.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/17/trunk/OnlineShop/web/admin/administration/user_administration.jsp
+END
+delproduct.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/17/trunk/OnlineShop/web/admin/administration/delproduct.jsp
+END
+edituser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15/trunk/OnlineShop/web/admin/administration/edituser.jsp
+END
+editcomment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/15/trunk/OnlineShop/web/admin/administration/editcomment.jsp
+END

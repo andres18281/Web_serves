@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/26/trunk/OnlineShop/src/java/persistencia
+END
+PersistenceFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12/trunk/OnlineShop/src/java/persistencia/PersistenceFile.java
+END
+PersistenceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12/trunk/OnlineShop/src/java/persistencia/PersistenceFactory.java
+END
+PersistenceInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12/trunk/OnlineShop/src/java/persistencia/PersistenceInterface.java
+END
+PersistenceBD.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/26/trunk/OnlineShop/src/java/persistencia/PersistenceBD.java
+END

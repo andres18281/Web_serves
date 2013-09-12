@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/trunk/OnlineShop/src/java/control
+END
+SendMail.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12/trunk/OnlineShop/src/java/control/SendMail.java
+END
+AuthServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/22/trunk/OnlineShop/src/java/control/AuthServlet.java
+END
+SaveSessionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/19/trunk/OnlineShop/src/java/control/SaveSessionListener.java
+END
+LogFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/OnlineShop/src/java/control/LogFilter.java
+END
+Tools.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/OnlineShop/src/java/control/Tools.java
+END
+GeneradorDeEstadiaticasDeVentas.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12/trunk/OnlineShop/src/java/control/GeneradorDeEstadiaticasDeVentas.java
+END
+LogOutServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/16/trunk/OnlineShop/src/java/control/LogOutServlet.java
+END
+StartListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/25/trunk/OnlineShop/src/java/control/StartListener.java
+END
+PassRecoverServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/16/trunk/OnlineShop/src/java/control/PassRecoverServlet.java
+END
+RegisterServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/16/trunk/OnlineShop/src/java/control/RegisterServlet.java
+END
+CheckEmailServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/27/trunk/OnlineShop/src/java/control/CheckEmailServlet.java
+END

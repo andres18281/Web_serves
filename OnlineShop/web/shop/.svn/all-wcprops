@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/17/trunk/OnlineShop/web/shop
+END
+viewprod.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/17/trunk/OnlineShop/web/shop/viewprod.jsp
+END
+cart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/OnlineShop/web/shop/cart.jsp
+END
+products.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/OnlineShop/web/shop/products.jsp
+END
+buyinformation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15/trunk/OnlineShop/web/shop/buyinformation.jsp
+END
+buycart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/15/trunk/OnlineShop/web/shop/buycart.jsp
+END

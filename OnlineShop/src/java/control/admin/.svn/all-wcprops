@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/28/trunk/OnlineShop/src/java/control/admin
+END
+EditUserServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/16/trunk/OnlineShop/src/java/control/admin/EditUserServlet.java
+END
+EditProductServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/OnlineShop/src/java/control/admin/EditProductServlet.java
+END
+EditCommentServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/OnlineShop/src/java/control/admin/EditCommentServlet.java
+END
+DeleteUserServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/16/trunk/OnlineShop/src/java/control/admin/DeleteUserServlet.java
+END
+AddCommentServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/16/trunk/OnlineShop/src/java/control/admin/AddCommentServlet.java
+END
+EditUserCompleteServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/16/trunk/OnlineShop/src/java/control/admin/EditUserCompleteServlet.java
+END
+AddProductServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/28/trunk/OnlineShop/src/java/control/admin/AddProductServlet.java
+END
+AdminFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12/trunk/OnlineShop/src/java/control/admin/AdminFilter.java
+END
+AdministrationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12/trunk/OnlineShop/src/java/control/admin/AdministrationFilter.java
+END
+ChangePassServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/16/trunk/OnlineShop/src/java/control/admin/ChangePassServlet.java
+END
+DeleteProductServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/16/trunk/OnlineShop/src/java/control/admin/DeleteProductServlet.java
+END
+DeleteCommentServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/16/trunk/OnlineShop/src/java/control/admin/DeleteCommentServlet.java
+END

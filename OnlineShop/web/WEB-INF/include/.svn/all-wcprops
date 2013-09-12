@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/18/trunk/OnlineShop/web/WEB-INF/include
+END
+footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17/trunk/OnlineShop/web/WEB-INF/include/footer.jsp
+END
+header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/13/trunk/OnlineShop/web/WEB-INF/include/header.jsp
+END
+menuAdministracion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/15/trunk/OnlineShop/web/WEB-INF/include/menuAdministracion.jsp
+END
+menu.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/13/trunk/OnlineShop/web/WEB-INF/include/menu.jsp
+END
+comentarios.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/17/trunk/OnlineShop/web/WEB-INF/include/comentarios.jsp
+END
+resultados.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/18/trunk/OnlineShop/web/WEB-INF/include/resultados.jsp
+END
